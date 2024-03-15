@@ -23,7 +23,7 @@ Este projeto oferece as seguintes funcionalidades:
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/sofianicoly/EstruturaDeDados/blob/main/crud.c
+git clone https://github.com/sofianicoly/CRUDemC
 ```
 
 Navegue até o diretório do projeto:
